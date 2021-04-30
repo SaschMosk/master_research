@@ -5,7 +5,7 @@ install.packages("stargazer") #для таблиц сравнения регре
 install.packages("MASS") #для порядкового логита/пробита
 install.packages("corrplot") #для корреляционных матриц
 install.packages("Hmisc") #для корреляционных матриц
-install.packages("car") #для бутстрапа, для графичков
+install.packages("car") #для бутстрапа, для графиков
 install.packages("spdep") #моделирование пространственных взаимосвязей
 install.packages("lattice") #отрисовка графиков
 install.packages("splm") #пространственные модели на панельных данных
